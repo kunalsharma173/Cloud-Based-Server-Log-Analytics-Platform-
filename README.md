@@ -1,7 +1,7 @@
-# Web-based Platform for Server Log Analytics
+# Cloud-Based-Server-Log-Analytics-Platform
 
 ## Overview
-The Web-based Platform for Server Log Analytics is a powerful tool designed to parse, analyze, and visualize server log data, providing critical insights into website traffic, user behavior, and server performance. With real-time analytics and AWS Redshift integration, this platform enables data-driven decision-making for web administrators and businesses.
+The Cloud-based Platform for Server Log Analytics is a powerful tool designed to parse, analyze, and visualize server log data, providing critical insights into website traffic, user behavior, and server performance. With real-time analytics and AWS Redshift integration, this platform enables data-driven decision-making for web administrators and businesses.
 
 ## Key Features
 - **Log Parsing:** Extracts key metrics (visited URLs, user agents, referrers, etc.).
